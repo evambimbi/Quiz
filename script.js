@@ -712,7 +712,6 @@ const commencer = () => {
   }
   nextStep()
 }
-
 function decrementTime() {
    clearInterval(interval)
   const temps = document.querySelector(".temps")
@@ -734,8 +733,6 @@ function decrementTime() {
     }
    },1000)
   }
- 
-
 }
 
 
