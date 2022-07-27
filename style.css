@@ -242,7 +242,6 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 outline: none;
-border-radius: 3px;
 cursor: pointer;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
@@ -260,7 +259,6 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 outline: none;
-border-radius: 3px;
 cursor: pointer;
 margin-left: 80px;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -279,7 +277,6 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 outline: none;
-border-radius: 5px;
 cursor: pointer;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
