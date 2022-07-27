@@ -1,6 +1,6 @@
 # Quiz
-*** Code Mardown ***
-=(Fonctionnalités) 
+
+=Fonctionnalités 
 
 ==Validations du champ nom du formulaire
 
